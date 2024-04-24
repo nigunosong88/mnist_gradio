@@ -1,4 +1,8 @@
 # mnist_gradio
+
+## 功能介紹
+2024/03/26
+使用訓練好的mnist-resnet18權重檔，預測我手寫的數字，顯示在右上角的outputs中。
 ## 使用工具/模型
 - Gradio
 - Mnist
